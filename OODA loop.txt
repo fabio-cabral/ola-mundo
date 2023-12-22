@@ -1,0 +1,53 @@
+The OODA loop
+
+Now, the Ooda loop is a decision-making model that was created by Colonel John Boyd to help responders think clearly during the fog of war.
+When we talk about the Ooda loop, we're talking about the fact that you have to go through four stages.
+This is observe, orient, decide, and act.
+Let's talk about each of these real quick.
+
+First, we're going to observe.
+When we observe, we want to identify the problem or threat and get an overall understanding of the internal and external environment.
+In the corporate world, this can be equated to data gathering where all of the information regarding the current organizational state, any competitors in market is collected, or whatever you're dealing with in an incident, you're gathering all of those details.
+Our key focus here during the observe step is to gather as much information as we can because we have to understand the world as complex.
+All this data becomes a snapshot in time and it has to be treated as such when we go forward for later analysis.
+Therefore, we always want to gather whatever information we can as quickly as possible and not succumb to paralysis by analysis.
+
+Then we move into our second step, which is orient.
+During this orientation phase, we want to reflect on what we found during our observation phase and then consider what should we do next.
+This requires a significant level of situational awareness and understanding in order for us to make a good conscious decision.
+Now, when you're dealing with an incident response, sometimes you are going to have some unconscious or instinctual decisions as well.
+This still happens inside the orient phase, but really, we are focused on thinking about what our course of action is going to be.
+We're taking the information we gather from observe and we're coming up with different solutions and plans that we can move forward with based on our orientation.
+
+Our third step is then to decide.
+Now when we decide, we are making suggestions towards an action or response plan while taking into consideration all of the potential outcomes.
+This decision phase makes these suggestions, and then we could figure out what we want to do from here.
+This can be accomplished through meetings or discussions and all of these things are going to be focused around creating a roadmap or a plan for the entire organization and for the entire instant response.
+
+Finally, we're going to act.
+When we act, we are going to carry out the decision and the related changes that need to be made in response to that decision.
+This allows us to then see what's being done and based on what we see as being done, we then can start over again with the observe phase.
+
+This way, this cycle happens over and over again.
+We observe some information.
+We take in data.
+We orient ourself by understanding it and creating situational awareness.
+Then we decide to take some kind of action, and then we act on it.
+After we act, we then need to observe again to see if what we did worked or if we have to adjust fire again.
+
+That's the idea of this Ooda loop.
+
+We want to stop ourself from reacting to what the adversary is doing and we instead want to take the initiative.
+This way, we can do that with a measured response and get ahead of the adversary.
+
+If our Ooda loop is shorter and faster than the adversaries, we can move quicker and we can take the advantage and move forward from there.
+
+Now, one of the biggest elements of the Ooda loop is that it stresses agility.
+Now, during the observation part of the cycle, we shouldn't be dominating ourself with that.
+We need to just get information in and then move into the other three parts of the cycle.
+The reason for this is we don't want to become overcome by paralysis, by analysis, in that observation phase.
+It is really easy to say, I can't make a decision yet. I need to gather more details.
+But when you do that, you are wasting valuable time.
+Instead, take a small action and then observe again.
+That way as you're going through this loop and going through your observe, orient, decide, and act, you're constantly making these small changes and actions that allows you to start getting momentum and collecting additional data as you go.
+This will help you go through each stage quickly and make sure that you're getting to where you need to be and helping deal with this response.
