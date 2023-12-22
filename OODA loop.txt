@@ -42,12 +42,4 @@ This way, we can do that with a measured response and get ahead of the adversary
 
 If our Ooda loop is shorter and faster than the adversaries, we can move quicker and we can take the advantage and move forward from there.
 
-Now, one of the biggest elements of the Ooda loop is that it stresses agility.
-Now, during the observation part of the cycle, we shouldn't be dominating ourself with that.
-We need to just get information in and then move into the other three parts of the cycle.
-The reason for this is we don't want to become overcome by paralysis, by analysis, in that observation phase.
-It is really easy to say, I can't make a decision yet. I need to gather more details.
-But when you do that, you are wasting valuable time.
-Instead, take a small action and then observe again.
-That way as you're going through this loop and going through your observe, orient, decide, and act, you're constantly making these small changes and actions that allows you to start getting momentum and collecting additional data as you go.
-This will help you go through each stage quickly and make sure that you're getting to where you need to be and helping deal with this response.
+
